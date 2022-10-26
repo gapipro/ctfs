@@ -56,3 +56,5 @@ fetch('/').then(e => e.text()).then(html => {
 		});
 	});
 });
+
+//CakeCTF{httponly=true_d03s_n0t_pr0t3ct_U_1n_m4ny_c4s3s!}
